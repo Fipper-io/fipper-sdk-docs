@@ -1,2 +1,2 @@
 # fipper-sdk-docs
-All SDK docks in one place
+All SDK docs in one place
