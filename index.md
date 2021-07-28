@@ -6,7 +6,7 @@ We placed all the information about our SDK here. Choose a language below to sta
 1. Python (sync & async versions). Link to [Fipper-python-SDK](https://github.com/Fipper-io/fipper-python-sdk/), examples included
 
 ## Here is how it works
-![Alt Text](https://womenandbloodclots.org/wp-content/uploads/2015/05/video-placeholder.png)
+![Alt Text](https://github.com/Fipper-io/fipper-sdk-docs/blob/gh-pages/fipper_sdk_footage.gif)
 
 ### Support or Contact
 
