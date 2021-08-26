@@ -7,7 +7,7 @@ We placed all the information about our SDK here. Choose a language below to sta
 2. JavaScript (alpha version). Link to [Fipper-JS-SDK](https://github.com/Fipper-io/fipper-js-sdk/), examples included
 3. Swift (in development)
 4. Android (Will be announced)
-5. Go (Will be announced)
+5. Go. Link to [Fipper-Go-SDK](https://github.com/Fipper-io/fipper-go-sdk), examples included
 6. Flutter (Will be announced)
 
 ## Here is how it works
