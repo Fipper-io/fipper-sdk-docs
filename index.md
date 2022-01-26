@@ -4,8 +4,8 @@ We placed all the information about our SDK here. Choose a language below to sta
 ## List of client libraries:
 
 1. Python (sync & async versions). Link to [Fipper-python-SDK](https://github.com/Fipper-io/fipper-python-sdk/), examples included
-2. JavaScript (alpha version). Link to [Fipper-JS-SDK](https://github.com/Fipper-io/fipper-js-sdk/), examples included
-3. Swift (in development)
+2. JavaScript. Link to [Fipper-JS-SDK](https://github.com/Fipper-io/fipper-js-sdk/), examples included
+3. Swift. Link to [Fipper-Swift-SDK](https://github.com/Fipper-io/fipper-swift-sdk), examples included
 4. Android (Will be announced)
 5. Go. Link to [Fipper-Go-SDK](https://github.com/Fipper-io/fipper-go-sdk), examples included
 6. Flutter (Will be announced)
